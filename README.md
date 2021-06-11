@@ -1,5 +1,7 @@
-# NetNinja_NodeJS_Lesson_18NetNinja_Lesson_18
-Michael_Clautice, Richmond, VA
+# NetNinja_NodeJS_Lesson_18
+Michael Clautice, Richmond, VA<br>
+The Net Ninja - NodeJS Tutorial for Beginners<br>
+Lesson 18 - Serving JSON Data
 
 NodeJS Tutorial for Beginners #18 - Serving JSON Data
 
